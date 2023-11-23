@@ -1,0 +1,1 @@
+<img src="/assets/hamsoft.gif" class="h-14">
